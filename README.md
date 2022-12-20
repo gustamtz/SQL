@@ -1,4 +1,4 @@
-# Repositório criado para estudos de database com SQL e MySQL.
+# Repositório criado para estudos de banco de dados.
 
 <br>
 
