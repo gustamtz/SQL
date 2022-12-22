@@ -9,8 +9,12 @@
 
 <br>
 
-## 📚 Próximos cursos:
+## 📚 Curso atual: 
 - Curso 02: Avançando em SQL e MySQL.
+
+<br>
+
+## 🔒 Próximos cursos:
 - Curso 03: Comandos DML.
 - Curso 04: Procedures SQL.
 - Curso 05: Segurança e otimização do banco.
