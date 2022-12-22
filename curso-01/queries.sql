@@ -16,6 +16,7 @@ LIMITE_CREDITO FLOAT,
 VOLUME_COMPRA FLOAT,
 PRIMEIRA_COMPRA BIT (1));
 
+
 -- Inserindo dados nos campos da tabela de produtos.
 USE sucos;
 
@@ -30,6 +31,7 @@ VALUES ('1000889', 'Sabor da Montanha', 'Garrafa', '700 ml', 'Uva', 6.31);
 
 SELECT * FROM tbproduto;
 
+
 -- Atualizando dados nos campos da tabela de produtos.
 USE sucos;
 
@@ -38,6 +40,7 @@ WHERE PRODUTO = '1000889';
 
 SELECT * FROM tbproduto;
 
+
 -- Deletando row de um produto específico na tabela de produtos.
 USE sucos;
 
@@ -45,12 +48,14 @@ DELETE FROM tbproduto WHERE PRODUTO = '1040107';
 
 SELECT * FROM tbproduto;
 
+
 -- Adicionando chave primáira na tabela de produtos.
 USE sucos;
 
 ALTER TABLE tbproduto ADD PRIMARY KEY (PRODUTO);
 
 SELECT * FROM tbproduto;
+
 
 -- Adicionando chave primária para o CPF, criando
 -- uma nova coluna para a data de nascimento e 
