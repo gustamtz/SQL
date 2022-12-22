@@ -4,7 +4,7 @@
 
 ## (Atual) Curso de manipulação e consulta de dados:
 
-![print sql](https://user-images.githubusercontent.com/113216494/208761551-ea1065bc-7694-41ae-af0e-369e2dee0b11.png)
+![print](https://user-images.githubusercontent.com/113216494/209166158-3a79fcc5-da94-462a-a923-6251d717bb43.png)
 
 <br>
 
