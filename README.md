@@ -22,6 +22,8 @@
 <br>
 <br>
 
+Por: <a href="https://github.com/gustamtz"> gustamtz</a>
+
 Créditos: @Alura
 
 
