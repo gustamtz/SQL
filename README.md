@@ -5,17 +5,17 @@
 <br>
 
 ## ✔️ Cursos concluídos:
-- Curso 01: Manipulação e consulta de dados. (MySQL)
-
-<br>
-
-## 📚 Curso atual: 
+- Curso 01: Manipulação e consulta de dados. 
 - Curso 02: Avançando em SQL e MySQL.
 
 <br>
 
-## 🔒 Próximos cursos:
+## 📚 Curso atual: 
 - Curso 03: Comandos DML.
+
+<br>
+
+## 🔒 Próximos cursos:
 - Curso 04: Procedures SQL.
 - Curso 05: Segurança e otimização do banco.
 
